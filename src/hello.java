@@ -19,13 +19,23 @@
         String o="favorite coffee thul=bru";
         String p="loan=40l";
         System.out.print(g);
+        System.out.print("\n");
         System.out.print(h);
+        System.out.print("\n");
         System.out.print(i);
+        System.out.print("\n");
         System.out.print(j);
+        System.out.print("\n");
         System.out.print(k);
+        System.out.print("\n");
         System.out.print(l);
+        System.out.print("\n");
         System.out.print(m);
+        System.out.print("\n");
         System.out.print(n);
+        System.out.print("\n");
         System.out.print(o);
+        System.out.print("\n");
         System.out.print(p);
+        System.out.print("\n");
     }
