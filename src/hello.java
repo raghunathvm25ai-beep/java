@@ -4,9 +4,9 @@
     int b=5;
     int c=3;
     int d=4;
-    int f=a+b-(c*d) ;
+    int f=a+b-(c*d);
+    int z=a-b;
         System.out.print("hello world \n");
-        System.out.print(f);
         System.out.print("\n");
         String g="billaram";
         String h="cooker=15";
@@ -37,5 +37,15 @@
         System.out.print(o);
         System.out.print("\n");
         System.out.print(p);
+        System.out.print("\n\n\n");
+        System.out.print(f);
         System.out.print("\n");
+        System.out.print(z);
+        System.out.print("\n");
+        if(f==z) {
+            System.out.print("equal\n");
+        }
+        else{
+            System.out.print("not equal\n");
+        }
     }
