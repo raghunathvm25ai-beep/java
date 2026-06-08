@@ -12,7 +12,7 @@
         String h="cooker=15";
         String i="diesel=~";
         String j="korangu=1";
-        String k="tyre=2";
+        String k="tyre=4";
         String l="rto=1";
         String m="delivary=correct time";
         String n="favorite dialogue=nammatha";
@@ -38,8 +38,7 @@
         System.out.print("\n");
         System.out.print(p);
         System.out.print("\n\n\n");
-        System.out.print(f);
-        System.out.print("\n");
+        System.out.println(f);
         System.out.print(z);
         System.out.print("\n");
         if(f==z) {
