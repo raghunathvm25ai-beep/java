@@ -14,5 +14,13 @@ void main(){
             System.out.print("* ");
         }
         System.out.println();
+
+    }
+    for (int row = 1; row <= n; row++) {
+        //column loop
+        for (int col = 1; col <= row; col++) {
+            System.out.print(col );
+        }
+        System.out.println();
     }
 }
