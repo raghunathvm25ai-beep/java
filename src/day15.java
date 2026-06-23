@@ -5,7 +5,7 @@ public class day15 {
             for (int i = 0; i < items.length; i++) {
                 System.out.println("Cooking Item:" + items[i]);
                 try {
-                    Thread.sleep(5000);
+                    Thread.sleep(50000);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
